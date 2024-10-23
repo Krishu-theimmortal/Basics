@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>KRISHNAVENI</h1>
+    <p>Myself Krishnaveni.I'm from Tamilnadu,I'm currently pursuing my PG in Bharathiar university </p>
+    <h3>Hobbies</h3>
+    <ul>
+        <li>Reading Books</li>
+        <li>Playing chess</li>
+        <li>Drawing</li>
+      </ul>
+     <p>My favourite site is<a href="https://www.youtube.com/"> Youtube</a></p>
+</body>
+</html>
