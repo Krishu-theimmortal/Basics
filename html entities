@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML Entities and Special Characters</h1>
+    <p>In HTML, special characters are represented using HTML entities. Some common examples include:</p>
+    <ul>
+        <li>The ampersand symbol: &</li>
+        <li>The ampersand symbol: &</li>
+        <li>The greater-than symbol: ></li>
+       <li> The double quotation mark: "</li>
+       <li> The apostrophe (single quote): '</li>
+       <li>The trademark symbol: ™</li>
+      </ul>
+</body>
+</html>
