@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Media Players</h1>
+    <h3>Listen to Our Featured Audio</h3>
+    <p>This is an audio player that allows you to listen to a sample track. Use the controls below to play, pause, or adjust the volume.</p>
+    <audio controls>
+        <source src="horse.ogg" type="audio/ogg">
+        <source src="horse.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      </audio>
+    <h3>Watch Our Featured Video</h3>
+    <p>Below is a video player. You can control playback by using the buttons to play, pause, or seek through the video.</p>
+    <video width="320" height="240" controls>
+        <source src="mov_bbb.mp4" type="video/mp4">
+        <source src="mov_bbb.ogg" type="video/ogg">
+      Your browser does not support the video tag.
+      </video>
+      
+    <p>©Thank you</p>
+</body>
+</html>
