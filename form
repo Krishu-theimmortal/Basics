@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        form {
+            margin: 20px 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+
+        input[type="submit"], button {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        input[type="submit"]:hover, button:hover {
+            background-color: #4ca049;
+        }
+    </style>
+</head>
+<body>
+    <h1>User Registration Form </h1>
+    <form action="/submit-form" method="post">
+        <label for="name"> Name: </label>
+        <input type="text" id="name" name="name" placeholder="Enter your  name">
+
+        <label for="Emailid">Email ID: </label>
+        <input type="email" id="Emailid" name="Emailid" placeholder="Enter your Email id">
+        
+        <label for="Password"> Password: </label>
+        <input type="password" id="Password" name="Password" placeholder="Enter your  Password">
+        <input type="checkbox" id="terms" name="terms" value="I agree to the terms and conditions  ">
+<br>
+        <input type="submit" value="Submit">
+        <button type="reset">Reset</button>
+    </form>
+</body>
+</html>
