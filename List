@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Top 5 Favorite Movies</h1>
+    <ol>
+        <li><b>The Dark Knight</b></li>
+        <ul>
+            <li>Year Released: 2008</li>
+            <li>Main Actors: Christian Bale, Heath Ledger, Michael Caine</li>
+            <li>Description: Batman faces off against the Joker, a criminal mastermind, in this thrilling action-packed superhero film with deep moral themes.
+            </li>
+          </ul> 
+        <li><b>Inception</b></li>
+        <ul>
+            <li>Year Released: 2010</li>
+            <li>Main Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page</li>
+            <li>Description: A group of thieves infiltrates dreams to steal secrets, but they must pull off the hardest heist: planting an idea in someone’s mind.
+            </li>
+        </ul>
+        <li><b>The Matrix</b></li>
+        <ul>
+            <li>Year Released: 1999</li>
+            <li>Main Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss</li>
+            <li>Description: A hacker discovers that reality is a simulation, and he joins a rebellion to fight against the machines controlling humanity.
+            </li>
+        </ul>
+        <li><b>The Lord of the Rings: The Fellowship of the Ring</b></li>
+        <ul>
+            <li>Year Released: 2001</li>
+            <li>Main Actors: Elijah Wood, Ian McKellen, Viggo Mortensen</li>
+            <li>Description:A young hobbit embarks on a quest to destroy a powerful ring, joined by a diverse fellowship of companions in this epic fantasy adventure.
+
+            </li>
+        </ul>
+        <li><b>The Shawshank Redemption</b></li>
+        <ul>
+            <li>Year Released: 2004</li>
+            <li>Main Actors:Tim Rom, Morgan Freeman </li>
+            <li>Description:A man is wrongly imprisoned and forms a bond with another inmate while planning his escape. It's a powerful story of hope and resilience. 
+            </li>
+        </ul>
+      </ol>  
+      
+</body>
+</html>
